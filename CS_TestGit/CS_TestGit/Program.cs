@@ -8,6 +8,7 @@ namespace CS_TestGit
         {
             Console.WriteLine("Hello World!");
             // Tao them nhan develop nhe
+            //Tao them c4 nha
         }
     }
 }
