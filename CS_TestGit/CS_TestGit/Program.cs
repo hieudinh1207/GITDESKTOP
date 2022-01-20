@@ -9,7 +9,7 @@ namespace CS_TestGit
             Console.WriteLine("Hello World!");
             // Tao them cho nhanh master
             // Sua noi dung c5..day là c6
-        
+            // Sua code c5 đay la c7
         }
     }
 }
